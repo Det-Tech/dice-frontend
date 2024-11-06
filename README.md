@@ -12,6 +12,8 @@
 ## Demo
 Here is a working live demo :  https://dice-frontend-pearl.vercel.app/
 
+## Smart Contract
+Here is a working live demo :  https://github.com/Det-Tech/dice-solana-bet
 
 ## Site
 
