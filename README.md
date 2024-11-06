@@ -57,5 +57,5 @@ If you find a bug (the website couldn't handle the query and/or gave undesired r
 If you'd like to request a new function, you can just do so by opening an issue [here](https://github.com/Det-Tech/dice-frontend/issues/new). Please include sample queries and their corresponding results.
 
 
-MIT © [Det-Tech](https://github.com/HuzaifaKhanDeveloper)
+MIT © [Det-Tech](https://t.me/BkingTechPrince)
 
