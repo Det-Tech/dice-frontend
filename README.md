@@ -10,7 +10,7 @@
 
 
 ## Demo
-Here is a working live demo :  https://diceswap-dex.vercel.app/
+Here is a working live demo :  https://dice-frontend-pearl.vercel.app/
 
 
 ## Site
@@ -33,7 +33,7 @@ Currently it is working anywhere in the world.
 
 
 
-## [Usage](https://diceswap-dex.vercel.app/) 
+## [Usage](https://dice-frontend-pearl.vercel.app/) 
 
 ### Development
 Want to contribute? Great!
@@ -52,16 +52,10 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ### Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and/or gave undesired results), kindly open an issue [here](https://github.com/HuzaifaKhanDeveloper/dice-coin/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and/or gave undesired results), kindly open an issue [here](https://github.com/Det-Tech/dice-frontend/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, you can just do so by opening an issue [here](https://github.com/HuzaifaKhanDeveloper/dice-coin/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, you can just do so by opening an issue [here](https://github.com/Det-Tech/dice-frontend/issues/new). Please include sample queries and their corresponding results.
 
 
-## Team
-
-[![Huzaifa Khan](https://avatars.githubusercontent.com/u/103213190?v=4)](https://github.com/HuzaifaKhanDeveloper)
-
-## [License](https://github.com/HuzaifaKhanDeveloper/dice-coin/blob/main/LICENSE)
-
-MIT © [Huzaifa Khan](https://github.com/HuzaifaKhanDeveloper)
+MIT © [Det-Tech](https://github.com/HuzaifaKhanDeveloper)
 
